@@ -1,10 +1,23 @@
-# Informativa privacy — D.O.B. Bot Giurisprudenza
+---
+layout: default
+title: Informativa privacy
+description: Informativa sul trattamento dei dati di D.O.B. Bot Giurisprudenza.
+lang: it
+permalink: /privacy/
+alternate_url: /privacy-en/
+alternate_label: EN
+document_type: privacy
+status_label: Documento vigente
+updated_label: Aggiornato il 12 settembre 2026
+---
+
+# Informativa privacy
 
 **Data di entrata in vigore: 12 settembre 2026**
 
 **Ultimo aggiornamento: 12 settembre 2026**
 
-[English version](PRIVACY_POLICY_EN.md)
+[English version]({{ '/privacy-en/' | relative_url }})
 
 ## 1. Titolare e ambito
 

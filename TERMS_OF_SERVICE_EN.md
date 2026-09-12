@@ -1,10 +1,23 @@
-# Terms of Service — D.O.B. Bot Giurisprudenza
+---
+layout: default
+title: Terms of Service
+description: Official Terms of Service for D.O.B. Bot Giurisprudenza.
+lang: en
+permalink: /terms-en/
+alternate_url: /terms/
+alternate_label: IT
+document_type: terms
+status_label: Current document
+updated_label: Updated September 12, 2026
+---
+
+# Terms of Service
 
 **Effective date: September 12, 2026**
 
 **Last updated: September 12, 2026**
 
-[Versione italiana](TERMS_OF_SERVICE.md)
+[Versione italiana]({{ '/terms/' | relative_url }})
 
 ## 1. Operator and acceptance
 

@@ -1,0 +1,10 @@
+title: D.O.B. Legal Information
+description: Terms of Service and Privacy Policy for D.O.B. Bot Giurisprudenza
+url: https://dossenix.github.io
+baseurl: /-D.O.B.-Giurisprduenza-Legal-Informations
+lang: it
+markdown: kramdown
+exclude:
+  - NOTE_GESTORE.md
+  - README.md
+  - CHANGELOG.md

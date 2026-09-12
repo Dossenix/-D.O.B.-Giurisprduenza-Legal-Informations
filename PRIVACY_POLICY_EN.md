@@ -1,10 +1,23 @@
-# Privacy Policy — D.O.B. Bot Giurisprudenza
+---
+layout: default
+title: Privacy Policy
+description: Official Privacy Policy for D.O.B. Bot Giurisprudenza.
+lang: en
+permalink: /privacy-en/
+alternate_url: /privacy/
+alternate_label: IT
+document_type: privacy
+status_label: Current document
+updated_label: Updated September 12, 2026
+---
+
+# Privacy Policy
 
 **Effective date: September 12, 2026**
 
 **Last updated: September 12, 2026**
 
-[Versione italiana](PRIVACY_POLICY.md)
+[Versione italiana]({{ '/privacy/' | relative_url }})
 
 ## 1. Controller and scope
 
