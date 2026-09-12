@@ -1,6 +1,6 @@
-# Note per Mattia — completamento delle bozze
+# Note operative per Mattia
 
-Verifica documentale del 12 settembre 2026. Queste note non sono parte dei termini degli utenti.
+Verifica documentale del 12 settembre 2026. Queste note non sono parte dei termini degli utenti e servono a mantenere coerenti le dichiarazioni pubblicate con il funzionamento reale.
 
 ## Informazioni confermate
 
@@ -10,20 +10,20 @@ Verifica documentale del 12 settembre 2026. Queste note non sono parte dei termi
 - Progetto gratuito di roleplay; uso attuale in una community Discord, con accesso operativo ristretto.
 - Repository pubblico dedicato: `Dossenix/-D.O.B.-Giurisprduenza-Legal-Informations`.
 
-## Passaggi ancora necessari
+## Impegni operativi da mantenere
 
-1. Verificare nel pannello o con l'assistenza Wispbyte il Paese del nodo Premium assegnato, backup, cifratura a riposo, accordo sul trattamento e garanzie degli eventuali trasferimenti internazionali. La pagina commerciale consultata indica Canada per il bot hosting, ma non prova la posizione dell'istanza. Verificare anche copie locali e gestione delle email in Gmail.
-2. Validare la base giuridica proposta: documentare il bilanciamento per il legittimo interesse, inclusi dati inseriti da altri e utenti minori. Se il trattamento concreto richiede una base diversa, aggiornare l'informativa prima di adottarla.
-3. Stabilire periodi o criteri di conservazione giustificati e applicabili; implementare o organizzare la revisione manuale. Non promettere che tutti i dati spariscono dopo 10 o 14 giorni.
+1. Conservare nel pannello o nelle proprie note la conferma del Paese del nodo Wispbyte assegnato, delle protezioni e delle condizioni applicabili. La pagina commerciale consultata indica Canada per il bot hosting, ma non prova la posizione dell'istanza. Tenere sotto controllo anche eventuali copie locali.
+2. Documentare il bilanciamento del legittimo interesse, inclusi dati inseriti da altri e utenti minori, e riesaminarlo se cambiano pubblico o funzioni.
+3. Eseguire almeno ogni 90 giorni la revisione degli identikit inattivi e rispettare i limiti di 12 mesi dichiarati per storico, audit ed email. Se questi criteri non vengono applicati, aggiornare il sistema o l'informativa prima di continuare la raccolta.
 4. Definire una procedura completa di accesso/cancellazione: identificare record, servizi Governo, audit, messaggi, foto, prove, backup e copie manuali; impedire che un ripristino reintroduca dati cancellati. Il comando attuale crea anche un backup prima della cancellazione e non copre tutte le tabelle Governo.
-5. Verificare cifratura a riposo della macchina/database: SQLite non è cifrato dal codice. La protezione DPAPI dei backup su Windows non prova la cifratura del database principale e non è trasferibile automaticamente a Linux. I termini Discord richiedono cifratura a riposo.
+5. Verificare e conservare prova della cifratura a riposo offerta dall'hosting. SQLite non è cifrato dal codice. La protezione DPAPI dei backup su Windows non prova la cifratura del database principale e non è trasferibile automaticamente a Linux. I termini Discord richiedono cifratura a riposo.
 6. Coinvolgere il genitore/tutore per l'accordo richiesto dai termini sviluppatori, senza dichiarare nei documenti un accordo non verificato e senza pubblicare suoi dati non necessari. Questo non lo rende automaticamente titolare.
 7. Controllare che i dati identificativi e le prove siano effettivamente di gioco. Gli ID Discord restano dati personali anche se il resto è inventato.
-8. Completare i campi aperti, rivedere i testi, sostituire lo stato di bozza con data di adozione e rendere l'informativa accessibile dal bot e dai canali dove si raccolgono dati, anche per le persone registrate dagli operatori.
+8. Rendere l'informativa accessibile dal bot e dai canali dove si raccolgono dati, anche per le persone registrate dagli operatori. Comunicare modifiche sostanziali prima dell'applicazione quando possibile.
 
 ## Pubblicazione
 
-I file Markdown sono leggibili pubblicamente su GitHub una volta caricati. Non presentare le bozze incomplete come informative definitive nel Developer Portal.
+I file Markdown sono leggibili pubblicamente su GitHub e possono essere usati nel Developer Portal.
 
 URL dei documenti sul branch `main` (disponibili solo dopo il caricamento):
 
@@ -52,4 +52,4 @@ Sono stati esaminati codice e documentazione, senza leggere token, database degl
 - [Privacy Google](https://policies.google.com/privacy).
 - [Offerta Wispbyte](https://wispbyte.com/store), consultata per la localizzazione pubblicizzata, senza accesso al pannello del cliente.
 
-I testi sono bozze preparatorie e richiedono verifica rispetto alla gestione effettiva; non sono una certificazione di conformità.
+I testi devono essere aggiornati ogni volta che cambiano funzioni, fornitori, dati raccolti o tempi di conservazione. La loro pubblicazione non costituisce una certificazione di conformità.

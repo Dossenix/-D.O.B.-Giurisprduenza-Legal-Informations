@@ -1,13 +1,20 @@
-# D.O.B. — Bot Giurisprudenza
+# D.O.B. — Bot Giurisprudenza Legal Information
 
-Documentazione legale del bot Discord dedicato alla gestione del governo nel roleplay.
+Public legal information for the Discord roleplay bot operated by **Mattia Dossena**. Contact: **dob.dossenixbots@gmail.com**.
 
-**Stato: bozze del 12 settembre 2026, da completare prima dell'adozione e dell'invio a Discord.** La pubblicazione di queste bozze non attesta conformità né approvazione del bot.
+## Italiano
 
-- [Termini di utilizzo (ToS)](TERMS_OF_SERVICE.md)
+- [Termini di utilizzo](TERMS_OF_SERVICE.md)
 - [Informativa privacy](PRIVACY_POLICY.md)
-- [Note per il gestore: completamento e pubblicazione](NOTE_GESTORE.md)
 
-Gestore: **Mattia Dossena** · Contatto: **dob.dossenixbots@gmail.com**
+## English
 
-I documenti riguardano il bot e non costituiscono una licenza del suo codice. Nessun database, allegato degli utenti o credenziale deve essere caricato in questo repository.
+- [Terms of Service](TERMS_OF_SERVICE_EN.md)
+- [Privacy Policy](PRIVACY_POLICY_EN.md)
+
+## Document history
+
+- [Changelog](CHANGELOG.md)
+- [Implementation notes for the operator](NOTE_GESTORE.md)
+
+These documents concern use of the bot and do not license its source code. No user database, attachments or credentials may be uploaded to this repository.
